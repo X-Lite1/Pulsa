@@ -109,7 +109,7 @@ echo "#########90%"
 sleep 4
 echo "##########100%"
 sleep 6
-echo "\033[34;1mSukses Mamank...""\033[32;1m Tunggu 5 Menit..."
+echo "\033[34;1mSukses bro""\033[32;1m Tunggu 5 Menit..."
 sleep 2
 sleep 3
 echo "Ketik Exit Untuk Keluar"
@@ -120,7 +120,7 @@ sleep 4
 
 echo "Tunggu 5 Menit"
 sleep 3
-echo "Selamat Masuk Tu Pulsa akan masuk 5 Menit"
+echo "setelah masuk pulsanya jangan bilangin sama orang ya"
 sleep 2
 echo "terimakasih tela pakai secerip ini"
 sleep 2
