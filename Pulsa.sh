@@ -33,37 +33,37 @@ sleep 1
 echo "ThanksTo:"
 echo "MR CROOT IS HERE"
 echo "\033[32;1m=
-────▄▄▄▄▄▄▄▄▄▄▄▄▄▄─────▄▀▀▀▀▀▀▀▀▀▀▀▀▀▀█───█
-▀▀▀█─▄▄▄▄▄▄─▄─▄─▄─█▀▀▀▀▄─█P█U█L█S█A█──█▀▀▀█
-───█─█────█─▄▀▄▀▄─█─────▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀───▀
+────▄▄▄▄▄▄▄▄▄▄▄▄▄▄██████▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█───────█
+▀▀▀█─▄▄▄▄▄▄─▄─▄─▄─█▀▀▀▀▄D█a█r█k█─█P█U█L█S█A█▀▀▀▀▀▀▀█
+───█─█────█─▄▀▄▀▄─█─────▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀───────▀
 ───█─█▄▄▄▄█─▄▀▄▀▄─█
 ───▀▄▄▄▄▄▄▄▄▄▄▄▄▄▄▀
 "
 echo ""
 sleep 3
-echo "HACK PULSA ALA MR CROOT HEHEHE"
-echo " Pakai +62 GOBLOK #Contoh +62xxx:"
+echo "HACK PULSA ALA Operator"
+echo " Pakai +62 GOBLOK #Contoh +62****:"
 read p;
 
-echo "SABAR GOBLOK PROSES"
+echo "SABAR Dalam PROSES"
 sleep 2
 echo "\033[37;1mANDA  10%" 
 sleep 1
-echo "G  20%" 
+echo "  20%" 
 sleep 1
-echo "O  30%" 
+echo "  30%" 
 sleep 3
-echo "B  40%" 
+echo "  40%" 
 sleep 3
-echo "L  50%" 
+echo "  50%" 
 sleep 3
-echo "O  60%"
-echo "K  90%"
+echo "  60%"
+echo "  90%"
 sleep 5
-echo "\033[31;1mNomor Gagal Njeng...""\033[32;1mSilahkan Masukkan Kembali No Anda:"
+echo "\033[31;1mNomor Gagal Di suntik tolong masukannya dengan benar""\033[32;1mSilahkan Masukkan no yg mau di suntik sekali lagi:"
 read p;
 sleep 3
-echo "Sabar Njeng, Proses..."
+echo "Sabar ya, Proses..."
 sleep 3
 echo "\033[37;1m#10%"
 sleep 2
@@ -85,10 +85,10 @@ echo "#########90%"
 sleep 4
 echo "##########100%"
 sleep 3
-echo "\033[32;1mBerapa Pulsa Yang Kau Mau Njeng:"
+echo "\033[32;1mBerapa Pulsa Yang Kau Mau kamu ambil:"
 read p;
 sleep 2
-echo "Sabar Njeng Proses..."
+echo "Sabar ya Proses..."
 echo "\033[37;1m#10%"
 sleep 1
 echo "##20%"
@@ -109,7 +109,7 @@ echo "#########90%"
 sleep 4
 echo "##########100%"
 sleep 6
-echo "\033[34;1mSukses Mamank...""\033[32;1m Tunggu 5 Menit Njenk..."
+echo "\033[34;1mSukses Mamank...""\033[32;1m Tunggu 5 Menit..."
 sleep 2
 sleep 3
 echo "Ketik Exit Untuk Keluar"
@@ -118,11 +118,11 @@ sleep 2
 sleep 3
 sleep 4
 
-echo "Pesan:Jika Script Ini Tidak Berfungsi Pada Anda Berarti anda Goblok"
+echo "Tunggu 5 Menit"
 sleep 3
-echo "Selamat Kalau Masuk Tu Pulsa Kalau GK Mampus Lu Kalau Mau Pulsa Kerja Goblok"
+echo "Selamat Masuk Tu Pulsa akan masuk 5 Menit"
 sleep 2
-echo "ThanksTo Mr Croot - Mr Rey"
+echo "terimakasih tela pakai secerip ini"
 sleep 2
 sleep 4
 exit
