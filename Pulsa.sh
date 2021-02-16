@@ -47,7 +47,7 @@ read p;
 
 echo "SABAR Dalam PROSES"
 sleep 2
-echo "\033[37;1mANDA  10%" 
+echo "\033[37;1m  10%" 
 sleep 1
 echo "  20%" 
 sleep 1
